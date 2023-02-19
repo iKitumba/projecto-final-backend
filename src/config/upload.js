@@ -1,6 +1,6 @@
 const multer = require("multer");
-const path = require("node:path");
-const crypto = require("node:crypto");
+const path = require("path");
+const crypto = require("crypto");
 
 const IMAGE_TYPES = ["image/png", "image/jpeg", "image/pjpeg"];
 
